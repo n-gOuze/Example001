@@ -13,3 +13,6 @@ int max = Max(
     Max(array[6],array[7],array[8]));
 
 Console.WriteLine(max);
+
+//array[0] = 12;
+//Console.WriteLine(array[0]);
